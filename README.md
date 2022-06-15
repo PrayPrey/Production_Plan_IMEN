@@ -11,3 +11,4 @@ Chasing / L4L 전략을 따르는 것으로 가정하였습니다.
 2) Final Class : 여러 Product로부터 전개된 MPS, MRP를 하나로 합쳐주는 Class (Excel)
 3) Merged Class : 1주차 2주차, n주차의 Actual value이 나올 시 MRP, MPS가 어떻게 변화하고 전개되는지 나타내어주는 Class 입니다.
 
+- 추가적인 사항은 ipynb 파일 내의 주석으로 작성하였습니다. (BOM 작성방법 등등..)
